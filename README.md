@@ -1,1 +1,1 @@
-# AI-Generated-Image-Detector
+# Authen-Lens - AI Generated Image Detector
