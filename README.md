@@ -22,7 +22,7 @@ You can install these libraries using pip:
 
 ```bash
 pip install numpy matplotlib pillow keras scikit-learn tensorflow streamlit sqlite3
-
+```
 
 ## Steps to Run the Project
 
