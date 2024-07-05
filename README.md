@@ -38,7 +38,7 @@ The dataset used here is the CASIA dataset from Kaggle. Download it from [this l
 2. Execute the Python script to train the model and generate a `.h5` file:
 
     ```bash
-    python image_manipulation_detection.py
+    python cnn-model.py
     ```
 
 ### Run the Streamlit App
